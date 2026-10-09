@@ -4,7 +4,7 @@ An open-source AI that sends you outside. Pick your walk time, place and difficu
 
 Built for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass.
 
-**Live demo:** YOUR-LIVE-LINK
+**Live demo:** https://walking-challenge-ai.vercel.app
 
 ## How it works
 
@@ -18,7 +18,7 @@ Built for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass.
     npm install
     npm run dev
 
-Open http://localhost:5173 in Chrome or Edge. The first run downloads the model (about 1.2 GB), then it is cached by the browser.
+Open https://walking-challenge-ai.vercel.app in Chrome or Edge. The first run downloads the model (about 1.2 GB), then it is cached by the browser.
 
 ## Tech
 
